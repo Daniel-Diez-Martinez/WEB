@@ -1,0 +1,27 @@
+<!doctyte html>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<title>Página con estilos</title>
+	<link href="CSS/miestilo.css" rel="stylesheet">
+	</head>
+
+	<body background="https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_TheElderScrollsVSkyrim_image1600w.jpg">
+		<h1>Ejemplo con un hiperenlace <strong><em>(Página de Bethesda)</em></strong></h1>
+			<a href="https://elderscrolls.bethesda.net/es/skyrim">The elder scrolls Bethesda</a>
+<div class="caja">
+	<header>
+		<h1>Cabezera: header (Guías The Elder Scrolls V: SKYRIM)</h1>
+	</header>
+	<nav>
+		<ul>
+			<li><a href="#">Menú 1 (Guía de magia)</a></li>
+			<li><a href="#">Menú 2 (Guía de Guerra)</a></li>
+			<li><a href="#">Menú 3 (Guia de sombras)</a></li>
+		</ul>
+	</nav>
+	<article>Contenido de la página</article>
+	<footer>Pie de página</footer>
+</div>
+	</body>
+</html>

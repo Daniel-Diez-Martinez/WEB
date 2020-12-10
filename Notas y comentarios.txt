@@ -1,0 +1,4 @@
+Para linkear un estilo css con la página principal se crea una carpeta en el mismo lugar que la página y ahí se ponen los archivos
+(en el código fuente se escribe "el nombre de la carpeta/nombre del archivo").
+Para linkear el mismo estilo css con una subpágina que este guardada en una carpeta en el mismo sitio que la página principal y la carpeta 
+del css, se usa el mismo código pero se añade al principio "../"("../nombre de la carpeta/nombre del archivo").

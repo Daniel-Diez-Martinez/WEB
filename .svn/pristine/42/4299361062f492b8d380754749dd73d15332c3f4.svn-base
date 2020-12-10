@@ -1,0 +1,37 @@
+<!doctyte html>
+<html lang="en">
+	<head>
+	<meta charset="utf-8">
+	<title>Guías The Elder Scrolls V: SKYRIM</title>
+	<meta name="description" content="Esta es mi primera página Web"/>
+	<meta name="author" content="Daniel Díez Martínez"/>
+	<meta name="keywords" content="Mi primera página Web, guia SKYRIM, página Web">
+	<link href="CSS/miestilo.css" rel="stylesheet">
+	</head>
+
+	<body background="https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_TheElderScrollsVSkyrim_image1600w.jpg">
+		<h1 align="right"><strong><em><a href="https://elderscrolls.bethesda.net/es/skyrim">Página de Bethesda</a></em></strong></h1>
+
+<div class="caja">
+	<header>
+		<h1 style="position: relative; top: -37px">Guías Generales The Elder Scrolls V: SKYRIM</h1>
+	</header>
+	<nav>
+		<ul class="nav" style="position: relative;top: -37px">
+			<li><a href="file:///C:/Users/sdiez/Desktop/LENGUAJE%20MARCAS/TEMA%201/Projecto_web/Subpaginas/Subpagina_1.html">Guía de magia</a>
+				<ul>Razas recomendadas.</ul><br><br>
+				<ul>Habilidades principales.</ul><br><br><br>
+				<ul>Roles.</ul></li>
+			<li><a href="file:///C:/Users/sdiez/Desktop/LENGUAJE%20MARCAS/TEMA%201/Projecto_web/Subpaginas/Subpagina_2.html">Guía de Guerra</a></li>
+			<li><a href="#">Guia de sombras</a></li>
+		</ul>
+	</nav>
+	
+		
+<div class="footer" style=" position: relative; top: 40px;">
+	<h3><p class="rights">Copyright Daniel Díez Martínez todos los derechos reservados | <a link href="#">Texto</a></p></h3>
+</div>
+</div>
+	</body>
+</html>
+

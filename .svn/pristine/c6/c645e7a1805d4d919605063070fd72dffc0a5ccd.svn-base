@@ -1,0 +1,28 @@
+<!doctyte html>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<title>Página con estilos</title>
+	<link href="CSS/miestilo.css" rel="stylesheet">
+	</head>
+
+	<body>
+		<h1>Ejemplo con un hiperenlace <strong><em>(Guías The Elder Scrolls V: SKYRIM)</em></strong>  <h3>Página de Bethesda</h3></h1>
+			<a href="https://elderscrolls.bethesda.net/es/skyrim"><img src="https://i.pinimg.com/originals/fd/a4/23/fda4239aa4d98d1e4648de6747a6c993.jpg"></a>
+<div class="caja">
+	<div class="cabezera">Contenido de la cabezera</div>
+	<div class="menu">Menú de navegación</div>
+	<div class="contenido">Contenido de la página</div>
+	<div class="destacados">Área de contenido destacado</div>
+	<div class="pies">Pies de Copyright</div>
+</div>
+
+<h2>Titular nivel 1 </h2>
+		<p>Párrafo de texto. <strong>negrita</strong> y <em>cursiva</em></p>
+	 <ul>
+		<li>Elemento de la lista 1</li>
+		<li>Elemento de la lista 2</li>
+		<li>Elemento de la lista 3</li>
+	</ul>
+	</body>
+</html>
